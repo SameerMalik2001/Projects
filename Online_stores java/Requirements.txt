@@ -1,0 +1,25 @@
+										online store
+
+Certainly! Here are some functionalities of an online store that can be implemented on the command line using Java:
+
+1. User Registration: Allow users to register an account by providing their details such as name, email, and password.
+
+2. User Login: Enable users to log in to their accounts using their registered email and password.
+
+3. Browse Products: Display a list of available products with their details such as name, description, and price.
+
+4. Search Products: Allow users to search for specific products by name or category.
+
+5. Add to Cart: Enable users to add products to their shopping cart, specifying the quantity of each item.
+
+6. View Cart: Display the contents of the user's shopping cart, including the names, quantities, and prices of the items.
+
+7. Remove from Cart: Allow users to remove items from their shopping cart.
+
+8. Update Cart: Provide an option for users to modify the quantity of items in their shopping cart.
+
+9. Place Order: Allow users to place an order for the items in their shopping cart. This should include calculating the total price, displaying an order summary, and asking for the user's shipping address.
+
+10. Order History: Enable users to view their order history, including details such as order dates, items purchased, and total prices.
+
+12. Account Management: Provide options for users to update their account information, such as changing their password or updating their shipping address.
