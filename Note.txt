@@ -1,0 +1,2 @@
+1. Do not forget to add mysql-connector in your IDE.
+2. You have to create all table in mysql to run this code succesfully.
