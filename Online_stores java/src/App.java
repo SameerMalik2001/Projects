@@ -869,6 +869,3 @@ public class App {
         
     }
 }
-
-// sameer7417277576@gmail.com
-// 12345678
